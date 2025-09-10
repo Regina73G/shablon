@@ -1,5 +1,5 @@
 {
-  "name": "pattern",
+  "name": "shablon",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,10 +9,6 @@
     "test": "jest --coverage",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Regina73G/pattern.git"
   },
   "author": "Regina Salikhova <yanadera@mail.ru>",
   "license": "ISC",
